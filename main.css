@@ -1,0 +1,17 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #444;
+}
+section {
+	background-color: #eee;
+	margin: 5mm auto 5mm auto;
+	width: 210mm;
+	height: 297mm;
+	padding: 10mm;
+}
